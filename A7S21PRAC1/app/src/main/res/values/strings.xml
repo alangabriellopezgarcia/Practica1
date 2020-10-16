@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S21PRAC1</string>
+    <string name="titulo">segundo programa en android</string>
+    <string name="nombre">ingresa tu nombre</string>
+    <string name="btndsaludar">preciona</string>
+    <string name="titulo2">segunda pantalla</string>
+</resources>
